@@ -1,0 +1,22 @@
+export default {
+  POPPINS_BLACK: 'Poppins-Black',
+  POPPINS_BOLD: 'Poppins-Bold',
+  POPPINS_EXTRA_BOLD: 'Poppins-ExtraBold',
+  POPPINS_EXTRA_LIGHT: 'Poppins-ExtraLight',
+  POPPINS_LIGHT: 'Poppins-Light',
+  POPPINS_MEDIUM: 'Poppins-Medium',
+  POPPINS_REGULAR: 'Poppins-Regular',
+  POPPINS_SEMI_BOLD: 'Poppins-SemiBold',
+  POPPINS_THIN: 'Poppins-Thin',
+  ROOBOTO_Bold: 'Roboto_Bold',
+  LORA_BLACK: 'Lora-Black',
+  LORA_BOLD: 'Lora-Bold',
+  LORA_EXTRA_BOLD: 'Lora-ExtraBold',
+  LORA_EXTRA_LIGHT: 'Lora-ExtraLight',
+  LORA_LIGHT: 'Lora-Light',
+  LRA_MEDIUM: 'Lora-Medium',
+  LORA_REGULAR: 'Lora-Regular',
+  LORA_SEMI_BOLD: 'Lora-SemiBold',
+  LORA_THIN: 'Lora-Thin',
+
+};
